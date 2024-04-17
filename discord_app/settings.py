@@ -82,7 +82,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'discord_app.wsgi.application'
+WSGI_APPLICATION = 'discord_app.wsgi.app'
 
 
 # Database
